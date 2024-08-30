@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circle{
+    background-color: rgb(13, 180, 158);
+    width:225px;
+    height:225px;
+    border-radius: 50%;
+    border-width: 10%;
+    border-color: blue;
+}
+.circle1{
+    background-color: bisque;
+    width:225px;
+    height:225px;
+    border-radius: 50%;
+    margin: 10% 50%;
+    border-width: 10%;
+    border-color: blue;
+}
+

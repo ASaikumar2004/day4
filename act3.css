@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.square{
+    background-color: skyblue;
+    width:300px;
+    height:300px;
+    margin: 3% 3%;
+}
+.circle{
+    background-color: bisque;
+    width:225px;
+    height:225px;
+    border-radius: 50%;
+    margin: 7% 9% 6% 65%;
+}
+.main{
+    display: flex;
+}

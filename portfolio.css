@@ -1,0 +1,11 @@
+
+*{
+    background-color: #444 ;
+    color:rgb(255, 255, 0);
+}
+.demo{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: arial ;
+    filter: drop-shadow(2px 2px 10px rgb(255, 255, 0));
+}

@@ -1,0 +1,13 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+.tri{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-bottom-color: blueviolet;
+    border-width: 400px;
+
+}
